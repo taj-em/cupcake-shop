@@ -21,3 +21,10 @@
 hr {
   color: darkblue;
 }
+
+#best {
+  font-style: italic;
+  font-size: 20px;
+  font-family: fantasy;
+  background-color: orange;
+}
